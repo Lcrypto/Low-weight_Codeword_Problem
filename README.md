@@ -3,7 +3,7 @@
 he GitHub repository contains a MATLAB application for generating a script for Magma Code Distance estimation using the Brouwer-Zimmerman method. The tool make  generator matrix for  LW_1280_3 code with rate=1/2 (seed 3)  from https://decodingchallenge.org/low-weight/ and run Brouwer-Zimmerman code (Hamming) distance using Magma V2.22-3.
 
 
-     Magma result using Brouwer-Zimmerman method:
+     Magma V2.22-3 result using Brouwer-Zimmerman method:
      Linear Code over GF(2) of length 1280 with 640 generators.
      Lower Bound: 1, Upper Bound: 641
      Constructed 2 distinct generator matrices
