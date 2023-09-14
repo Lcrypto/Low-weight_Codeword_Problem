@@ -49,8 +49,8 @@ The GitHub repository contains a MATLAB application for generating a script for 
      Termination predicted at 10^123 s (10^116y) with 116 generators at matrix 2
      Enumerating using 6 generators at a time:
           New codeword identified of weight 233, time 369428.88
-          New codeword identified of weight 233, time 955398.02
-
+          New codeword identified of weight 230, time 955398.02
+          New codeword identified of weight 229, time 2210937.43
 
 To learn more about Magma implementation, refer to "Searching for linear codes with large minimum distance" by Martin Grassl, published in the book "Discovering Mathematics with Magma" in 2006.
 
