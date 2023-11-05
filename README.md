@@ -53,7 +53,7 @@ The GitHub repository contains a MATLAB application for generating a script for 
           New codeword identified of weight 229, time 2210937.43
      Termination predicted at 10^121 s (10^114y) with 114 generators at matrix 1
      Enumerating using 7 generators at a time:
-          New codeword identified of weight 228, time 6279197.94
+          New codeword identified of weight 228, time 6279197.94
 
 
 To learn more about Magma implementation, refer to "Searching for linear codes with large minimum distance" by Martin Grassl, published in the book "Discovering Mathematics with Magma" in 2006.
