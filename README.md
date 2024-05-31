@@ -60,7 +60,10 @@ To learn more about Magma implementation, refer to "Searching for linear codes w
 
 For more information on the Brouwer-Zimmerman method, refer to the following papers: "Bounds on Linear Codes" by Andries E. Brouwer, published in the Handbook of Coding Theory in 1998; "Integral Hecke Modules, Integral Generalized Reed-Muller Codes, and Linear Codes" by K.-H. Zimmermann, published as Technical Report 3-96 by Technische Universität Hamburg-Harburg in 1996; and "Codierungstheorie: Konstruktionen und Anwendungen linearer Codes" by A. Betten, H. Fripertinger, A. Kerber, A. Wassermann, and K.-H. Zimmermann, published by Springer in 1998.
 
-Our results from code distance challenge using Lattice code distance estimation methods (Kannan embedding and after solve Shortest Basis Problem (SBP) and Shortest Vector Problem (SVP)): https://decodingchallenge.org/low-weight/
+Our results from code distance challenge using Lattice code distance estimation methods (Kannan embedding and after solve Shortest Basis Problem (SBP) and Shortest Vector Problem (SVP)): https://decodingchallenge.org/low-weight/ , Lattice methods are superior:
+
+
+![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
 
 ## References
 
