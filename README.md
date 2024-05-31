@@ -65,5 +65,8 @@ Our results from code distance challenge using Lattice code distance estimation 
 ## References
 
 
-Usatjuk V.S. Computing the minimum distance of nonbinary ldpc codes  using block korkin-zolotarev method. Proceedings of the Southwest State University Series: Control, Computer Engineering, Information Science. Medical Instruments Engineering. - 2015. - № 3 (16). - С. 76-85. 
+1. Usatjuk V.S. Computing the minimum distance of nonbinary ldpc codes  using block korkin-zolotarev method. Proceedings of the Southwest State University Series: Control, Computer Engineering, Information Science. Medical Instruments Engineering. - 2015. - № 3 (16). - pp. 76-85. 
+
+2. Usatyuk V.S., Yegorov S.I. CONSTRUCTION OF QUASI-CYCLIC NON-BINARY LDPC CODES, BASED ON JOINT OPTIMIZATION OF DISTANCE PROPERTIES AND CONNECTION SPECTRA OF CODES. Telecommunications and Radio Engineering №8, 2016, pp. 32-40
+
 
