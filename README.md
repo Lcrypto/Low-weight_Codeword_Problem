@@ -82,13 +82,13 @@ Our results from code distance challenge using Lattice code distance estimation 
 4. Usatjuk V.S. Computing the minimum distance of nonbinary ldpc codes using block korkin-zolotarev method. Proceedings of the Southwest State University Series: Control, Computer Engineering, Information Science. Medical Instruments Engineering. - 2015. - № 3 (16). - pp. 76-85. (Rus)
 
 
-5. Usatyuk V.S.. Implementation of the parallel shortest vector enumeration in the block Korkin–Zolotarev method Prikladnaya Diskretnaya Matematika. Supplement, pp. 130-131. (Rus)
+5. Usatyuk V.S.. Implementation of the parallel shortest vector enumeration in the block Korkin–Zolotarev method Prikladnaya Diskretnaya Matematika. Supplement, 2013, pp. 130-131. (Rus)
 
 
-6. Usatyuk V.S. The implementation of the parallel orthogonalization algorithms in the shortest integer lattices basis problem. Prikladnaya Diskretnaya Matematika. Supplement, pp. 120-122. (Rus)
+6. Usatyuk V.S. The implementation of the parallel orthogonalization algorithms in the shortest integer lattices basis problem. Prikladnaya Diskretnaya Matematika. Supplement, 2012, pp. 120-122. (Rus)
 
 
-7. Usatyuk V.S., Kuzmin O.V. Parallel algorithms for integer lattices basis reduction V 1,  2015, pp. 55-62. (Rus)
+7. Usatyuk V.S., Kuzmin O.V. Parallel algorithms for integer lattices basis reduction, V. 1,  2015, pp. 55-62. (Rus)
 
 
 
