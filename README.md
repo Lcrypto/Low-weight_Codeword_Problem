@@ -62,4 +62,8 @@ For more information on the Brouwer-Zimmerman method, refer to the following pap
 
 Our results from code distance challenge using Lattice code distance estimation methods (Kannan embedding and after solve Shortest Basis Problem (SBP) and Shortest Vector Problem (SVP)): https://decodingchallenge.org/low-weight/
 
+## References
+
+
+Usatjuk V.S. Computing the minimum distance of nonbinary ldpc codes  using block korkin-zolotarev method. Proceedings of the Southwest State University Series: Control, Computer Engineering, Information Science. Medical Instruments Engineering. - 2015. - № 3 (16). - С. 76-85. 
 
